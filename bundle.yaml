@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "2"
+version: "1"
 id: "jack-cloudbees-casc-demo-ops-controller"
 description: "CloudBees CI configuration bundle for the jack-cloudbees-casc-demo ops-controller Controller"
 availabilityPattern: "cloudbees-ci-casc-workshop/jack-cloudbees-casc-demo/ops-controller"
