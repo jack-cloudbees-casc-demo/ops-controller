@@ -41,7 +41,7 @@ unclassified:
               repoOwner: "${GITHUB_ORGANIZATION}"
               repository: "pipeline-library"
   headerLabel:
-    text: "${GITHUB_APP}-bundle-v1"
+    text: "${GITHUB_APP}-bundle-v2"
 credentials:
   system:
     domainCredentials:
